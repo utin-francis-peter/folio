@@ -55,7 +55,7 @@ const HeroSection = () => {
       </nav>
 
       <main>
-        <div className="border border-red-400 text-center ">
+        <div className="text-center ">
           <p className="border-[1.27px] border-dark rounded-[38px] py-[12px] px-[25px] w-[103px] h-[45px] mx-auto">
             Hello!
           </p>
@@ -66,8 +66,8 @@ const HeroSection = () => {
         </div>
 
         <div>
-          <div className="relative border-2 border-green-500">
-            <div className="border border-black absolute -top-20 left-1/2 -translate-x-1/2">
+          <div className="relative ">
+            <div className="absolute -top-20 left-1/2 -translate-x-1/2">
               <img
                 src="/smiling-lady.png"
                 alt="a smiling lady"
@@ -120,7 +120,7 @@ const HeroSection = () => {
             </div>
 
             <div className="flex justify-between mx-[71px] mt-[80.33px]">
-              <div className="w-[304px] border border-red-500">
+              <div className="w-[304px] ">
                 <img src="/quote-up.png" alt="quote" /> <br />
                 <p className="font-medium text-[20px] text-[##344054]">
                   Lily’s Exceptional product design ensure our website’s
@@ -128,7 +128,7 @@ const HeroSection = () => {
                 </p>
               </div>
 
-              <div className="text-end w-[176px] border border-red-500">
+              <div className="text-end w-[176px] ">
                 <img
                   className="w-full"
                   src="/five-stars.png"
