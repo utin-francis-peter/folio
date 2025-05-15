@@ -1,8 +1,12 @@
+import HeroSection from "./components/HeroSection";
+import Services from "./components/Services";
+
 function App() {
   return (
-    <>
-      <h1 className="text-red-600">Welcome!</h1>
-    </>
+    <div className="font-lufga">
+      <HeroSection />
+      <Services />
+    </div>
   );
 }
 

@@ -1,0 +1,64 @@
+@font-face {
+  font-family: "lufga";
+  src: url("/src/assets/fonts/lufga/LufgaLight.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "lufga";
+  src: url("/src/assets/fonts/lufga/LufgaRegular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "lufga";
+  src: url("/src/assets/fonts/lufga/LufgaMedium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "lufga";
+  src: url("/src/assets/fonts/lufga/LufgaBold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* unlock */
+@font-face {
+  font-family: "unlock";
+  src: url("/src/assets/fonts/unlock/Unlock-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* urbanist */
+@font-face {
+  font-family: "urbanist";
+  src: url("/src/assets/fonts/urbanist/Urbanist-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "urbanist";
+  src: url("/src/assets/fonts/urbanist/Urbanist-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "urbanist";
+  src: url("/src/assets/fonts/urbanist/Urbanist-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "urbanist";
+  src: url("/src/assets/fonts/urbanist/Urbanist-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
