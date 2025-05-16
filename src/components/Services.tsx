@@ -2,7 +2,7 @@ import InvertedRadiusCard from "./InvertedRadiusCard";
 
 const Services = () => {
   return (
-    <div className="h-[878px] rounded-[50px] py-[116px] bg-[#171717] bg-[url('/bg-dark.png')] bg-no-repeat bg-cover mt-[129px]">
+    <div className="h-[878px] rounded-[50px] py-[116px] bg-[#171717] bg-[url('/bg-dark.png')] bg-no-repeat bg-cover mt-[117px]">
       <div className="max-w-7xl mx-auto">
         <div className="flex items-center justify-between gap-[455px] text-white mb-[96px]">
           <h1 className="text-[48px] flex items-center gap-2">

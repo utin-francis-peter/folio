@@ -33,7 +33,7 @@ const navList = [
 const HeroSection = () => {
   return (
     // TODO: improve the nav styles
-    <div className="border-2 border-green-600 max-w-7xl mx-auto">
+    <div className="max-w-7xl mx-auto">
       <nav className="mx-[71px] mt-[40px] mb-[37px] bg-dark h-[86px] rounded-full text-white font-normal overflow-hidden">
         <ul className="h-full flex items-center justify-around p-[10px] gap-[15px]">
           {navList.map((n, i) => (
@@ -59,7 +59,7 @@ const HeroSection = () => {
           <p className="border-[1.27px] border-dark rounded-[38px] py-[12px] px-[25px] w-[103px] h-[45px] mx-auto">
             Hello!
           </p>
-          <div className="relative border border-black">
+          <div className="relative ">
             <h1 className="font-semibold text-[95px] -tracking-[0.01em] leading-[100%]">
               I'm <span className="text-primary">Francis,</span> <br /> Frontend
               Developer
