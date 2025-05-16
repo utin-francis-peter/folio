@@ -4,8 +4,10 @@ import Services from "./components/Services";
 function App() {
   return (
     <div className="font-lufgar">
-      <HeroSection />
-      <Services />
+      <div className="border border-red-500">
+        <HeroSection />
+        <Services />
+      </div>
     </div>
   );
 }
