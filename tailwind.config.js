@@ -5,6 +5,7 @@ export default {
     extend: {
       colors: {
         primary: "#FD853A",
+        secondary: "#344054",
         dark: "#171717",
         glass: "rgba(255, 255, 255, 0.1)",
       },
